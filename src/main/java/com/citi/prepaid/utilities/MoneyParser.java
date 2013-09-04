@@ -7,12 +7,10 @@ import java.util.Locale;
 
 /**
  * This is a Utility that will assist in the parsing and formatting of monetary
- * data in the manner that Citi&copy; Prepaid technology handles it. Most
- * Citi&copy; Prepaid Services handle Monetary values as an integer. This class
+ * data that is stored in an Integer format. This class
  * provides a consistant and localized fashion to acomplish that task.
  * 
- * 
- * @author <a href="mailto:geoffrey.b.paffettt@citi.com">Geoffrey B. Paffett</a>
+ * @author <a href="mailto:gbpaffett@gmail.com">Geoffrey B. Paffett</a>
  * @version $Revision$
  * 
  */
